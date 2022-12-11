@@ -1,6 +1,11 @@
  version: '3'
 
  tasks:
+   build:
+     desc: Build application
+     cmds:
+       - go build -o build/golang-template cmd/main.go
+
    run:
      desc: Run application
      cmds:

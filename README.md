@@ -1,5 +1,7 @@
 # Golang Project Template
 
+> Consider changing the name of the repository ownership
+
 This repository contains a simple template for golang projects. It has been configured with asdf to use the latest version of golang (currently v1.19), but any version >=1.13 of golang installed on your local machine can be used instead. The included Taskfile is an optional utility that can be used as an alternative to makefile, but any other build tool can be used as well.
 
 ## Inspiration

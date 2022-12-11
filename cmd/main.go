@@ -1,6 +1,6 @@
 package main
 
-import "github.com/ruslanguns/go-dtos/internal/run"
+import "github.com/ruslanguns/Golang-Template/internal/run"
 
 func main() {
 	run.Run()
